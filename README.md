@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hamzakhattak188@gmail.com**
 
-- ⚡ Fun fact **I'm a male in the 21st century**
+- ⚡ Fun fact **I don't own a goldfish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
