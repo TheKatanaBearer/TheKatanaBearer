@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Tariq</h1>
 <h3 align="center">A student of CS and in my 4th Semester</h3>
 
-- 🌱 I’m currently learning **DBMS and Linux**
+- 🌱 I’m currently learning **DBMS**
 
 - 📫 How to reach me **hamzakhattak188@gmail.com**
 
