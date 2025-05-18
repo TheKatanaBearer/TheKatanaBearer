@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Tariq</h1>
 <h3 align="center">A student of CS and in my 4th Semester</h3>
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **Database systems**
 
 - 📫 How to reach me **hamzakhattak188@gmail.com**
 
@@ -34,8 +34,5 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40"/>
 </a>
 </p>
