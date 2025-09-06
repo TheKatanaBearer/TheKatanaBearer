@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Tariq</h1>
-<h3 align="center">A student of CS and in my 4th Semester</h3>
+<h3 align="center">A student of CS and in my 5th Semester</h3>
 
-- 🌱 I’m currently learning **Database systems**
+- 🌱 I’m currently learning **Analysis and Development of Algorithms** and **Operating Systems**
 
 - 📫 How to reach me **hamzakhattak188@gmail.com**
 
